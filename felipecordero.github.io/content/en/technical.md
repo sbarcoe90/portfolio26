@@ -115,6 +115,8 @@ technical_groups:
         devicon_name: "python"
       - icon: "code"
         name: "Tampermonkey"
+      - icon: "robot"
+        name: "OpenClaw"
       - icon: "code-branch"
         name: "Git"
         devicon_name: "git"
