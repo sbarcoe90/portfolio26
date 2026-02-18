@@ -1,13 +1,10 @@
-[build.environment]
-DART_SASS_VERSION = "1.97.3"
-GO_VERSION = "1.25.6"
-HUGO_VERSION = "0.155.3"
-NODE_VERSION = "24.13.0"
-TZ = "Europe/Oslo"
-
 [build]
-publish = "public"
-command = """\
-  git config core.quotepath false && \
-  hugo --gc --minify --baseURL "${URL}"
-  """
+  base = "felipecordero.github.io"
+  publish = "public"
+  command = "npm ci && npm run build:css && hugo --gc --minify -b $URL"
+
+[build.environment]
+  HUGO_VERSION = "0.155.3"
+  NODE_VERSION = "22"
+  TZ = "Europe/Oslo"
+  GIT_SUBMODULE_STRATEGY = "recursive"
