@@ -3,7 +3,7 @@ title: "About"
 type: "homepage"
 featured_image: "/images/seamus-barcoe-profile.jpeg"
 intro: >-
-  I’m Seamus Barcoeeeeeeee, a Technical Support Engineer and Systems Support Analyst with 10+ years of experience supporting large-scale enterprise environments across VMware, AWS, Linux, and complex application and database troubleshooting. 
+  I’m Seamus Barcoe, a Technical Support Engineer and Systems Support Analyst with 10+ years of experience supporting large-scale enterprise environments across VMware, AWS, Linux, and complex application and database troubleshooting. 
 
 
   I began my career at VMware supporting vSphere production environments, then moved to Wells Fargo where I supported VMware infrastructure at massive scale, helping maintain high availability across 100,000+ VMs and 5,000+ ESXi hosts. I later worked at ScienceLogic as a Tier 2 escalation engineer for the SL1 monitoring platform, partnering closely with Engineering and R&D on high-priority issues. At ServiceNow, I focused on platform performance and reliability, including deep troubleshooting across MariaDB and full-stack diagnostics using observability tooling.
