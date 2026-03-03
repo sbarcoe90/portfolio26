@@ -191,8 +191,9 @@ sectionPagesMenu = 'main'
   # Customize this list to change the types of images that appear
   # The system will randomly select from these queries for each page loads
 queries = [
-  "Samuel Beckett Bridge Dublin architecture",
-  "Dublin modern architecture",
-  "Grand Dublin offices",
-  "River Liffey Dublin skyline"
+  "enterprise data center blue",
+  "network operations center large screens",
+  "cloud infrastructure abstract blue",
+  "server racks modern lighting",
+  "SRE monitoring dashboard dark mode"
 ]
