@@ -191,8 +191,5 @@ sectionPagesMenu = 'main'
   # Customize this list to change the types of images that appear
   # The system will randomly select from these queries for each page loads
 queries = [
-  "abstract technology background blue",
-  "cloud computing abstract gradient",
-  "minimal digital lines abstract background",
-  "modern tech gradient mesh background"
+  "Coding Image Darkmode"
 ]
