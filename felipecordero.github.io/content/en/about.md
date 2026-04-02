@@ -2,14 +2,17 @@
 title: "About"
 type: "homepage"
 featured_image: "/images/seamus-barcoe-profile.jpeg"
-intro: >-
-  I’m Seamus Barcoe, a Technical Support Engineer and Systems Support Analyst with 10+ years of experience supporting large-scale enterprise environments across VMware, AWS, Linux, and complex application and database troubleshooting. 
+intro: |
 
+  **I troubleshoot complex production systems and fix problems at the root.**<br><br>
 
-  I began my career at VMware supporting vSphere production environments, then moved to Wells Fargo where I supported VMware infrastructure at massive scale, helping maintain high availability across 100,000+ VMs and 5,000+ ESXi hosts. I later worked at ScienceLogic as a Tier 2 escalation engineer for the SL1 monitoring platform, partnering closely with Engineering and R&D on high-priority issues. At ServiceNow, I focused on platform performance and reliability, including deep troubleshooting across MariaDB and full-stack diagnostics using observability tooling.
+  I’m Seamus Barcoe, a Technical Support Engineer with 10+ years of experience working on large-scale cloud and enterprise systems across VMware, AWS, and Linux.<br><br>
 
+  I’ve spent my career deep in production systems — diagnosing complex issues, owning critical incidents, and working closely with engineering teams to get to the root of problems. I started at VMware supporting vSphere environments, then moved to Wells Fargo where I worked on infrastructure at massive scale, helping maintain availability across 100,000+ VMs.<br><br>
 
-  Most recently, I supported Broadcom’s VMware Cloud on AWS at HCLTech, delivering advanced troubleshooting across VMC, vSphere, ESXi, and Aria, with a strong emphasis on incident ownership, root cause analysis, and customer outcomes.
+  From there, I moved into more platform-focused roles — supporting ScienceLogic’s SL1 as a Tier 2 escalation engineer, and later at ServiceNow where I worked on performance, reliability, and full-stack troubleshooting across database and application layers.<br><br>
+
+  Most recently, I supported VMware Cloud on AWS at HCLTech (Broadcom), handling complex infrastructure and platform issues across VMC, ESXi, and Aria. My focus has always been the same — understand the problem deeply, fix it properly, and make sure it doesn’t happen again.<br><br>
 
 study: >-
   Based in **Co. Kildare, Ireland** 🇮🇪, I focus on continuous professional development in **cloud infrastructure**, **virtualization**, and **automation**. I enjoy building practical tooling in **Python** 🐍 and improving workflows with lightweight automation and scripting, especially around support efficiency and case quality.
