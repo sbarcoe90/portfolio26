@@ -6,7 +6,7 @@ intro: |
 
   **I troubleshoot complex production systems and fix problems at the root.**<br><br>
 
-  I’m Seamus Barcoe3333, a Technical Support Engineer with 10+ years of experience working on large-scale cloud and enterprise systems across VMware, AWS, and Linux.<br><br>
+  I’m Seamus Barcoe, a Technical Support Engineer with 10+ years of experience working on large-scale cloud and enterprise systems across VMware, AWS, and Linux.<br><br>
 
   I’ve spent my career deep in production systems — diagnosing complex issues, owning critical incidents, and working closely with engineering teams to get to the root of problems. I started at VMware supporting vSphere environments, then moved to Wells Fargo where I worked on infrastructure at massive scale, helping maintain availability across 100,000+ VMs.<br><br>
 
